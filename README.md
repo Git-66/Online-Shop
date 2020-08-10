@@ -18,6 +18,8 @@
 5. Online-shop start up suceesfull and ready to receive the request from user
 
 ## Online Shop Application using Spring Web MVC
+
+```
 Step 1: Create a Maven Project
 Step 2: Update Pom.xml
 Step 3: Update web.xml
@@ -32,6 +34,7 @@ Step 11: Using Spring Security for Authentication and Authorization
 Step 12: Create Views
 Step 13: Run the Application 
 
+```
 
 ## Hibernate 
 
